@@ -1,16 +1,4 @@
-<<<<<<< HEAD
-### Hi there I am Kshitij Soni👋
 
-##I am an Engineer turned Entrepreneur
-- 🎓I am currently working on Digital Microscope Project
-- 🔭I am an active programmer in my startup (Coming soon)
-- 👯I am looking to collaborate on Medihost
-- 🤔I am lokking for help with AWS
-
-### Connect with me:
-
-[<img align="left" alt="Kshitij Soni | Linkedin" width = "22px" src ="	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> ][Linkedin]
-=======
 ### Hi there , I am Kshitij Soni👋
 ![I am GitHub Readme Generator's creator](https://camo.githubusercontent.com/1c599fd918f649ead173975ee0cb6ce72c47d2765e2813f608f7282a74407e26/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966)
 <br/>
