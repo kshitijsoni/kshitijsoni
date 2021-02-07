@@ -6,10 +6,11 @@
 - 👨🏼‍💻 Programming is love
 - 🔭 I am working on Digital Microscope
 - 👯 I am looking to collaborate on my start up projects 
+- 📫 Reach me at: kshitijsoni@iipe.ac.in
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kshitijsoni)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kshitijsoni)               [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kshitij-soni/)                     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kshitij_.soni/)              [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/_Kshitij_Soni_)                          [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](kshitijsoni318@gmail.com)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kshitijsoni)               [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kshitij-soni/)                     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kshitij_.soni/)              [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/_Kshitij_Soni_)                         
 
  
 
