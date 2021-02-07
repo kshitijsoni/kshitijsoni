@@ -1,1 +1,0 @@
-Love the work your do or do what you love
