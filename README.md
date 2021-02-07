@@ -10,7 +10,7 @@
 - 👯 I am looking to collaborate on my start up projects 
 - 📫 Reach me at: kshitijsoni@iipe.ac.in
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kshitijsoni)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kshitijsoni&show_icons=true)  
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijsoni)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
