@@ -1,4 +1,6 @@
 ### Hi there , I am Kshitij Soni👋
+<br/>
+![Profile views](https://gpvc.arturio.dev/kshitijsoni)  
 
 - 🎓 Sophomore at IIPE VIZAG
 - 🎓 Pursuing Bachelor of Technology majoring in Petroleum Engineering
