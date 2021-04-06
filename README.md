@@ -7,7 +7,7 @@
 
 - 🎓 Sophomore at IIPE VIZAG
 - 🎓 Pursuing Bachelor of Technology majoring in Petroleum Engineering
-- 👨🏼‍💻 An Engineer turned Entrepreneur
+- 👨🏼‍💻 An Engineer turned Entrepreneur (https://kshitijsoni.mba/Work/)
 - 👨🏼‍💻 Programming is love
 - 🔭 I am working on Digital Microscope
 - 👯 I am looking to collaborate on my start up projects 
