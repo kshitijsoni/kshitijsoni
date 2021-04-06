@@ -11,7 +11,7 @@
 - 👨🏼‍💻 Programming is love
 - 🔭 I am working on Digital Microscope
 - 👯 I am looking to collaborate on my start up projects 
-- 📫 Reach me at: kshitijsoni@iipe.ac.in
+- 📫 Reach me at: info@kshitijsoni.mba
 - 🥳 I am an admin of a memepage
 
 <br/>
