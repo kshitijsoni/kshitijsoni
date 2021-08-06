@@ -5,7 +5,7 @@
 
 
 
-- 🎓 Sophomore at IIPE VIZAG
+- 🎓 Penultimate at IIPE VIZAG
 - 🎓 Pursuing Bachelor of Technology majoring in Petroleum Engineering
 - 👨🏼‍💻 An Engineer turned Entrepreneur (https://kshitijsoni.mba/Work/)
 - 👨🏼‍💻 Programming is love
